@@ -46,6 +46,7 @@
 *.gz
 *.bz2
 *.xz
+!codex-backup/codex-backup-*.zip
 
 # Temp / backup
 *.tmp
