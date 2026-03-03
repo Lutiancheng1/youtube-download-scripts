@@ -1,0 +1,57 @@
+# Video
+*.mp4
+*.mkv
+*.mov
+*.avi
+*.wmv
+*.flv
+*.webm
+*.m4v
+*.ts
+
+# Audio
+*.mp3
+*.wav
+*.flac
+*.aac
+*.ogg
+*.m4a
+*.wma
+
+# Image / design assets
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.webp
+*.heic
+*.tif
+*.tiff
+*.psd
+*.ai
+*.sketch
+*.xcf
+
+# Subtitle
+*.srt
+*.ass
+*.vtt
+
+# Archives
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+*.bz2
+*.xz
+
+# Temp / backup
+*.tmp
+*.temp
+*.bak
+
+# Sensitive local session files
+cookies.txt
+youtube_cookies.txt
